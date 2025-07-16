@@ -73,17 +73,4 @@ Implement comprehensive testing strategies for a MERN stack application, includi
    
    # Run only end-to-end tests
    npm run test:e2e
-   ```
-
-## ✅ Submission Instructions
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Complete all the tasks in the assignment
-4. Commit and push your code regularly to show progress
-5. Include in your repository:
-   - Complete test files for unit, integration, and end-to-end testing
-   - Documentation of your testing strategy
-   - Screenshots of test coverage reports
-   - Examples of debugging techniques implemented
-6. Your submission will be automatically graded based on the criteria in the autograding configuration
-7. The instructor will review your submission after the autograding is complete 
+   
